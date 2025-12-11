@@ -193,8 +193,8 @@ body {
 /* small annotations */
 .note {
     position: absolute;
-    right: 8px;
-    top: 8px;
+    right: 4px;
+    top: -15px;
     font-size: 0.69rem;
     background: rgba(255,255,255,0.03);
     padding: 4px 6px;
